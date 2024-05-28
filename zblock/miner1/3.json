@@ -1,0 +1,31 @@
+{
+  "hash": "0x000000a741858d1764df40539368b983b474b23c985d5a60c7ba20f1d24ceca2",
+  "block": {
+    "number": 3,
+    "prev_block_hash": "0x000000d8b90a83cf21ee2805496a1989c46e490325a5d6f49837b7ab38658385",
+    "timestamp": 1716893274517,
+    "beneficiary": "0xFef311483Cc040e1A89fb9bb469eeB8A70935EF8",
+    "difficulty": 6,
+    "mining_reward": 700,
+    "state_root": "0x172489dcd1c8e4dd55e0eda64443334a96fabc4f40de6527edcbd2ea9d2a10b4",
+    "trans_root": "0x297c94bf20abf111418050fe7dfde42bdf3a047de388efa97340eadba68d8cc1",
+    "nonce": 4795183344915624621
+  },
+  "trans": [
+    {
+      "chain_id": 1,
+      "nonce": 1,
+      "from": "0xF01813E4B85e178A83e29B8E7bF26BD830a25f32",
+      "to": "0xbEE6ACE826eC3DE1B6349888B9151B92522F7F76",
+      "value": 100,
+      "tip": 0,
+      "data": null,
+      "v": 30,
+      "r": 51417034804596782106753481604412326105352195518561790710112567463137901803479,
+      "s": 47020868768368397066755335188795617306432526020756336007233390413669253177335,
+      "timestamp": 1716893274517,
+      "gas_price": 15,
+      "gas_units": 1
+    }
+  ]
+}
